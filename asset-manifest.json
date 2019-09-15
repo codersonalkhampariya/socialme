@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/socialme/static/css/main.2cce8147.chunk.css",
+    "main.js": "/socialme/static/js/main.5edf0c29.chunk.js",
+    "main.js.map": "/socialme/static/js/main.5edf0c29.chunk.js.map",
+    "runtime~main.js": "/socialme/static/js/runtime~main.fa1916b4.js",
+    "runtime~main.js.map": "/socialme/static/js/runtime~main.fa1916b4.js.map",
+    "static/js/2.c39984c4.chunk.js": "/socialme/static/js/2.c39984c4.chunk.js",
+    "static/js/2.c39984c4.chunk.js.map": "/socialme/static/js/2.c39984c4.chunk.js.map",
+    "index.html": "/socialme/index.html",
+    "precache-manifest.1c3fd7fbeb7c38549039a671f862bcb0.js": "/socialme/precache-manifest.1c3fd7fbeb7c38549039a671f862bcb0.js",
+    "service-worker.js": "/socialme/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/socialme/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/socialme/static/media/logo.5d5d9eef.svg"
+  }
+}
